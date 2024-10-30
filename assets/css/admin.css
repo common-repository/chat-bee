@@ -1,0 +1,26 @@
+.chat-bee-options label {
+    display: inline-block
+}
+.chat-bee-options textarea {
+    direction: ltr;
+    text-align: left;
+}
+.chat-bee-options label input{
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.color-options label {
+    display: block!important;
+    margin-top: 14px
+}
+.color-options label input {
+    width: 80px;
+    direction: ltr
+}
+.text-options label {
+    display: block!important;
+    margin-top: 14px
+}
+.text-options label input{
+    width: 400px;
+}
